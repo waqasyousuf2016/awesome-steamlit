@@ -133,7 +133,9 @@ A curated list of awesome streamlit resources. Inspired by [awesome-python](http
 - [How to create and deploy data exploration web app easily using python](https://medium.com/@ansjin/how-to-create-and-deploy-data-exploration-web-app-easily-using-python-a03c4b8a1f3e) (#Article, #Deployment, #Tutorial)
 - [How to write web apps using simple python for data scientists](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582) (#Article, #Tutorial)
 - [Mining and Classifying Medical Text Documents](https://towardsdatascience.com/mining-and-classifying-medical-text-documents-1876462f73bc) by [Georgi Tancev](https://github.com/gtancev) (#Article, #Deployment, #NLP, #Tutorial)
-- [Streamlit Python Tutorial (Crash Course)](https://www.youtube.com/watch?v=_9WiB2PDO7k) by [Jesse E. Agbe (JCharis)](https://github.com/Jcharis) (#Tutorial, #Video
+- [Streamlit Python Tutorial (Crash Course)](https://www.youtube.com/watch?v=_9WiB2PDO7k) by [Jesse E. Agbe (JCharis)](https://github.com/Jcharis) (#Tutorial, #Video)
+- - [Getting Started with Streamlit](https://docs.streamlit.io/get-started) – Official beginner-friendly guide to learn Streamlit step by step.
+
 
 ## Governance
 
@@ -550,3 +552,4 @@ We place our tests in a `test` folder in the root folder organized with folders 
             ├── test_component1.py
             └── test_component2.py
 ```
+
