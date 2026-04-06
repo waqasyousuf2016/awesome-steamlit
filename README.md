@@ -20,6 +20,7 @@ Visit the app at [awesome-streamlit.org](https://awesome-streamlit.org)!
 
 ![Awesome Streamlit Org Animation](https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/awesome-streamlit-full-branded.gif?raw=true)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Streamlit app workflow orchestration, automated data dashboard management, and multi-agent coordination. MIT licensed.
 ## The Magic of Streamlit
 
 The only way to truly understand how magical Streamlit is to play around with it. But if you need to be convinced first, then here is the **4 minute introduction** to Streamlit!
